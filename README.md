@@ -12,6 +12,7 @@ Student solutions to the three projects in the [Ultimate Vue.js Developers Cours
 ### Project 1 - Vue.js Poster Shop
 
 [Anthony's solution](https://github.com/vuejsdevelopers/vuejs-poster-shop). [View demo.](http://vuejs-poster-shop.vuejsdevelopers.com/)
+
 [Gustavo's solution](https://github.com/tavuntu/other-stuff).
 
 ### Project 2 - Vue.js Cinema
